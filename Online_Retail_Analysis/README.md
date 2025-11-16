@@ -31,7 +31,6 @@ This project involved analyzing a large transactional dataset (542,000+ rows) fr
 
 - **Geographic Focus:** The United Kingdom is the primary market, accounting for the vast majority of all company revenue.
 - **Sales Trend:** The "Revenue By Month" chart shows a significant increase in sales during the last quarter (Oct-Nov-Dec), indicating strong holiday seasonality.
-- **Peak Sales Day:** Thursdays were identified as the busiest day of the week, suggesting a target for staffing or promotions.
 - **Peak Sales Day:** Tuesdays were identified as the busiest day of the week, suggesting a target for staffing or promotions.
 - **Top Products:** The dashboard clearly displays the Top 10 products, allowing managers to focus on key inventory.
 
