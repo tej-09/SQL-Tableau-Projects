@@ -28,7 +28,7 @@ You can view the exact queries used in the [analysis.sql](analysis.sql)
 
 - Total revenue from all orders was $817,860.
 - The busiest time for orders is 12:00 PM, with a smaller peak at 6:00 PM.
-- The "Classic Deluxe" is the best-selling pizza, while the "Brie Carre" is the worst-seller.
+- The "Classic Deluxe" is the best-selling pizza.
 
 ## Final Dashboard
 
