@@ -11,6 +11,7 @@ This project analyzes over 48,000 order records from a pizza restaurant to ident
 - **Database:** MySQL
 - **Visualization:** Tableau Public
 - **Code:** SQL
+- **Data Source:** Kaggle ([Pizza Place Sales](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales))
 
 ## SQL Analysis
 
