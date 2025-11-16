@@ -27,8 +27,7 @@ You can view the exact queries used in the [analysis.sql](analysis.sql)
 ## Key Insights
 
 - Total revenue from all orders was $817,860.
-- The busiest time for orders is 1:00 PM, with a smaller peak at 6:00 PM.
-- The "Large" size is the most popular, accounting for over 40% of all orders.
+- The busiest time for orders is 12:00 PM, with a smaller peak at 6:00 PM.
 - The "Classic Deluxe" is the best-selling pizza, while the "Brie Carre" is the worst-seller.
 
 ## Final Dashboard
